@@ -25,10 +25,5 @@ Este repositorio contiene el código fuente desarrollado para el Trabajo de Fin 
    ```
 3. Ejecuta los notebooks en `notebooks/` o los scripts en `src/` para entrenar los modelos.
 
-## 📊 Resultados
-Los modelos entrenados se almacenan en `models/`. La documentación del desarrollo está en `docs/`.
-
----
-
 **Autor:** Franco Sánchez, Giancarlo Castillo y Paolo Mogollón  (únicos propietarios del repositorio)  
 **Repositorio:** [(https://github.com/PaoloJMC/TFM_CODIGOFUENTE)]  
