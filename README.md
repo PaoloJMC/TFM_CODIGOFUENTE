@@ -1,7 +1,7 @@
 # Detección de rasgos asociados a la depresión mediante técnicas de machine learning: Comparación de modelos
 
 Este repositorio contiene el código fuente desarrollado para el Trabajo de Fin de Máster (TFM) titulado 
-**"Predicción de salud mental basado en patrones de comportamiento utilizando algoritmos de machine learning"**.
+**"Detección de rasgos asociados a la depresión mediante técnicas de machine learning: Comparación de modelos"**.
 
 ## 📌 Estructura del Repositorio
 - 📂 `src/` → Contiene los scripts principales del modelo de machine learning.
